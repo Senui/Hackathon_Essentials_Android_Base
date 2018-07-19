@@ -211,11 +211,8 @@ public class ClassifierActivity extends CameraActivity implements OnImageAvailab
             }
             resultsView.setResults(results);
             for (Classifier.Recognition result: results){
-              if(result.getTitle().equals("electric fan")){
-                sendWebSocketMessage("pankha");
-              }
-              if(result.getTitle().equals(("lampshade"))){
-                sendWebSocketMessage("lampshade");
+              if(result.getTitle().equals("electric fan")) {
+                  sendWebSocketMessage("pankha");
               }
             }
             requestRender();

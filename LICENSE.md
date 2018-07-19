@@ -5,7 +5,9 @@ This software is only supposed to be used for
 2) CERN Webfest Hackathon 2018
 For any other usage, please contact the developers and maintainers of the project.
 
-For the people participating in the above said events, the following terms apply:
+For the people participating in the above said events, the usage is permitted only during the events.
+
+If the above terms are met, the following additional terms apply:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
